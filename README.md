@@ -138,9 +138,9 @@ The model predicts the most suitable crop using:
 
 ## Application Preview
 
-<p align="center">
-  <img src="Images/home-page.png" alt="Crop Recommendation System" width="900">
-</p>
+## 📷 Application Preview
+
+![Crop Recommendation System](Images/home-page.png)
 
 ---
 
