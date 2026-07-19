@@ -138,7 +138,11 @@ The model predicts the most suitable crop using:
 
 ## Application Preview
 
-![Crop Recommendation System](https://github.com/mahiich07/Crop-Recommendation-System/blob/main/%20Images/home-page.png)
+### Home Page
+![Home Page](https://github.com/mahiich07/Crop-Recommendation-System/blob/main/Images/home-page.png)
+
+### Prediction Result
+![Prediction Result](https://github.com/mahiich07/Crop-Recommendation-System/blob/main/Images/prediction-page.png)
 
 ---
 
