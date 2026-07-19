@@ -138,8 +138,6 @@ The model predicts the most suitable crop using:
 
 ## Application Preview
 
-## 📷 Application Preview
-
 ![Crop Recommendation System](Images/home-page.png)
 
 ---
