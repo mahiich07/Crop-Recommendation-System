@@ -24,6 +24,7 @@ Crop Recommendation System is a Machine Learning-based web application that reco
 ### Machine Learning
 - Python
 - Scikit-learn
+- XGBoost
 - Pandas
 - NumPy
 - Joblib
@@ -31,7 +32,11 @@ Crop Recommendation System is a Machine Learning-based web application that reco
 ### Data Visualization
 - Matplotlib
 
----
+### Development Tools
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
 
 ## Project Structure
 
